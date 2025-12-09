@@ -51,9 +51,4 @@ Créditos totais ao criador do conteúdo original.
 
 ## 🖼 Screenshot do jogo
 
-```markdown
 ![Screenshot do jogo](./imagens/screenshot.png)
-Basta salvar a imagem com o nome **screenshot.png** na raiz do projeto.
-
-```markdown
-![Screenshot do jogo](./screenshot.png)
